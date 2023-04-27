@@ -5,3 +5,4 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QQ 1: Add roll_dice static method to GameLogic class.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qclass GameLogic:\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QChatgpt\\E$"}
+{"rule":"NODT_DOZEN","sentence":"^\\QProject: Lab: Ten Thousand - version 1\\E$"}
