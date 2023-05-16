@@ -103,7 +103,7 @@ def _extract_rolls(lines):
     rolls = []
     for line in lines:
         # WARNING: dice rolls MUST start with expected characters
-        if line.startswith("*** "):
+        if line.startswith("* "):
             roll = [int(char) for char in line if char.isdigit()]
             rolls.append(roll)
 
